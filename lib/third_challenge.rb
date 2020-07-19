@@ -19,6 +19,7 @@ def third_challenge
         {:name => "Mercutio", :age => 18, :attitude => "hot-headed"}
       ]
    }, 
+   
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet",
@@ -37,8 +38,8 @@ def third_challenge
         {:name => "Steven", :age => 30, :attitude => "confused"}
         
         {:name => "Nurse", :age => 44, :attitude => "worried"}
-        
       ]
+      
    }
    
   }
